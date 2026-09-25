@@ -161,13 +161,9 @@ document.addEventListener("DOMContentLoaded", function () {
  <h2 class="h4 text-warning">Arte Africana</h2>
 
  <p class="mb-2">
- Um espaço educativo sobre a história, a cultura e a diversidade
- artística do continente africano.
+ ETEC DE HORTOLÂNDIA 2026 - &copy; Todos os direitos reservados <br> Trabalho acadêmico sem fins lucrativos
  </p>
 
- <small class="text-secondary">
- © 2026 - Projeto educativo sobre arte africana
- </small>
  </div>
  </footer>
  `;
